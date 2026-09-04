@@ -1,1 +1,0 @@
-print("Pozdravljeni 2.Ri")
